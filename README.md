@@ -33,7 +33,5 @@ I'm a software engineering technician with a passion for creative problem-solvin
 
 Feel free to explore my repositories to see more of my work!
 
----
 
-Let me know if you want any adjustments or additional information included!
 
